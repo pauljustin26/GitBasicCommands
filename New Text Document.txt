@@ -1,0 +1,8 @@
+Git Basic Commands List:
+
+1. git init
+2. git branch -M main
+3. git remote add origin https://github.com/pauljustin26/GitBasicCommands
+4. git add .
+5. git commit -m "Initial Commit"
+6. git push -u origin main
